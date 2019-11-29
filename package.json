@@ -1,7 +1,7 @@
 {
-    "name": "glow-comp",
+    "name": "infinite-wellness",
     "version": "1.0.0",
-    "description": "Full stack application using MongoDB, Express, React, and Node.js",
+    "description": "Full stack application using MongoDB, Express, React, and Node.js for a massage therapy business including user authentication and a scheduler.",
     "main": "server.js",
     "scripts": {
         "start": "if-env NODE_ENV=production && npm run start:prod || yarn start:dev",
